@@ -1,0 +1,8 @@
+A programação orientada a objetos alem de ser bastante pratica e organizada é bem eficiente e consistem em quatro pilares que são: Abstração, encapsulamento, polimorfismo e herança.
+Já a programação estruturada apesar de ser eficiente, pode ser de dificil manuseio para um trabalho em equipe pelo fato de na ser perfeitamente organizada e dividida que nem a programação orientada a objetos.
+Dentro da Poo podemos encontrar alguns elementos que ajuda nesta organização, tais como: Classe e objeto, variável, referência, objeto e instância.
+Classes e objetos tem como objetivo idealizar e organizar atraves de metodos um projeto que foi pensado.
+As variaveis busca ao maximo passar o seu significado pelo seu nome.
+Referencias serve para abstrações que são criadas para resolver determinada situação.
+Objeto é usado para por em pratica as idadeis que estão na classe.
+O objeto pode ser bastante versatio e se adaptar em varias situações podendo até se tornar metodos(Funções).
