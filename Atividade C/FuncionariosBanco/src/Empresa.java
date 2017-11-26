@@ -20,8 +20,8 @@ public class Empresa {
         for (int i = 0; i < this.empregados.length; i++) {
             if(empregados[i] != null){
                 System.out.println("Funcionario na posição " + i);
-                System.out.println("Nome do funcionario: " + empregados[i].nome);
-                System.out.println("Salario do funionario: " + empregados[i].salario);
+                System.out.println("Nome do funcionario: " + empregados[i].getNome());
+                System.out.println("Salario do funionario: " + empregados[i].getSalario());
             }
 
         }

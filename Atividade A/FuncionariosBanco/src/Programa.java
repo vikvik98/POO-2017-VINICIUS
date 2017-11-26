@@ -25,5 +25,6 @@ public class Programa {
         mister.adiciona(f2);
 
         mister.mostrarEmpregados();
+        mister.contem(f1);
     }
 }
