@@ -3,7 +3,7 @@ package Model.Questao_4;
 /**
  * Created by aluno on 14/12/17.
  */
-public class Quadrado extends FiguraGeometrica {
+public class Quadrado implements FiguraGeometrica {
     double lado;
 
     @Override

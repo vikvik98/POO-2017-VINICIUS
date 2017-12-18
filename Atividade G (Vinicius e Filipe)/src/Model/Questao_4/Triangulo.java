@@ -3,7 +3,7 @@ package Model.Questao_4;
 /**
  * Created by aluno on 14/12/17.
  */
-public class Triangulo extends FiguraGeometrica {
+public class Triangulo implements FiguraGeometrica {
     double lado;
 
 
