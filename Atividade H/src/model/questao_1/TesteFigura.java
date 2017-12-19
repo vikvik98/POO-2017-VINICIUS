@@ -14,5 +14,7 @@ public class TesteFigura {
         System.out.println(t.calculaArea());
         System.out.println(q.calculaPerimetro());
         System.out.println(t.calculaPerimetro());
+        System.out.println(q.comparar(t,q));
+
     }
 }
