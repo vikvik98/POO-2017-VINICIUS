@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_editar_livro"
+        android:title="Editar"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_editar">
+
+    </item>
+
+    <item
+        android:id="@+id/item_excluir_livro"
+        android:title="Excluir"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_excluir">
+
+    </item>
+
+
+</menu>
