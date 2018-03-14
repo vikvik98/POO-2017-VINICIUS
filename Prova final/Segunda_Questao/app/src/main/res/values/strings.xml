@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Segunda_Questao</string>
+    <string name="bem_vindo">Bem-vindo</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="enviar">Enviar</string>
+    <string name="digite_a_nota_1">Digite a nota 1</string>
+    <string name="digite_a_nota_2">Digite a nota 2</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="digite_o_peso_da_nota_2">Digite o peso da nota 2</string>
+    <string name="nota_2">nota 2</string>
+</resources>
